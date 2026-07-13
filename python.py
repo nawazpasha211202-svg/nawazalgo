@@ -8,3 +8,4 @@ p=7+8
 print(p)
 q=9+10
 print(q)
+print("The sum of x, y, z, p, and q is:", x + y + z + p + q)
