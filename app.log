@@ -1,0 +1,8 @@
+{"time": "2026-07-14 04:20:04", "level": "INFO", "module": "main", "message": "User login attempt", "user": "nawaz", "status": "failed"}
+{"time": "2026-07-14 04:20:04", "level": "ERROR", "module": "main", "message": "Database connection error"}
+{"time": "2026-07-14 04:20:04", "level": "DEBUG", "module": "main", "message": "Debugging trade execution flow"}
+{"time": "2026-07-14 04:22:04", "level": "INFO", "module": "main", "message": "User login attempt", "user": "nawaz", "status": "failed"}
+{"time": "2026-07-14 04:22:04", "level": "ERROR", "module": "main", "message": "Database connection error"}
+{"time": "2026-07-14 04:22:04", "level": "DEBUG", "module": "main", "message": "Debugging trade execution flow"}
+{"time": "2026-07-14 09:45:00", "level": "INFO", "module": "main", "message": "User login attempt", "user": "nawaz", "status": "failed"}
+{"time": "2026-07-14 09:45:01", "level": "ERROR", "module": "main", "message": "Database connection error"}
